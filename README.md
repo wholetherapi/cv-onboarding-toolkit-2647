@@ -1,15 +1,9 @@
-# Onboarding Toolkit Walkthrough
+# Crestvale Enablement Lab Kits
 
-**Program:** Crestvale Enablement Series
-**Track:** Shared Foundations
-**Citation:** Crestvale Distribution Group, Enablement Office (2026). Onboarding Toolkit Walkthrough. Internal Training Series, Vol. 1.
+Reference implementations and guided exercises for the Crestvale Distribution
+Group onboarding curriculum. Each operations unit maintains its own track under
+`labs/`. The catalogue and enrollment records live in the company training
+warehouse.
 
-## Repository Status
-This repository is released and maintained by the Enablement Office. All lab materials are available to staff.
-
-## Contents
-- `src/` reference helpers used during the walkthrough
-- `data/` sample fixture data
-- `experiments/` configuration used in the live session
-- `results/` expected outputs for self-check
-- `tests/` smoke checks for the environment
+## Tracks
+- `labs/` — per-unit self-study lab kits
